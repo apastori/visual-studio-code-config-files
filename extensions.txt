@@ -1,0 +1,12 @@
+biomejs.biome
+csstools.postcss
+dbaeumer.vscode-eslint
+dsznajder.es7-react-js-snippets
+esbenp.prettier-vscode
+ms-python.debugpy
+ms-python.python
+ms-python.vscode-pylance
+prisma.prisma
+rangav.vscode-thunder-client
+ritwickdey.liveserver
+stylelint.vscode-stylelint

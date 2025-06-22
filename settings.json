@@ -1,0 +1,12 @@
+{
+    "liveServer.settings.donotShowInfoMsg": true,
+    "prisma.showPrismaDataPlatformNotification": false,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.fontFamily": "Fira Code",
+    "workbench.settings.applyToAllProfiles": [
+        "editor.fontFamily"
+    ],
+    "typescript.updateImportsOnFileMove.enabled": "always"
+}
