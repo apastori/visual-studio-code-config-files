@@ -3,9 +3,14 @@ csstools.postcss
 dbaeumer.vscode-eslint
 dsznajder.es7-react-js-snippets
 esbenp.prettier-vscode
+github.copilot
+github.copilot-chat
+golang.go
+google.geminicodeassist
 ms-python.debugpy
 ms-python.python
 ms-python.vscode-pylance
+ms-python.vscode-python-envs
 prisma.prisma
 rangav.vscode-thunder-client
 ritwickdey.liveserver
